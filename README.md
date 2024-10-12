@@ -3,7 +3,7 @@ Signal integrity related templates for the QUCS free circuit simulator
 
 This is a collection of circuit simulator template files to be loaded into the QUCS free simulator. Their purpose is to help with advanced signal integrity simulations for leading-edge board designs.
 
-To download: Click the zip file, on teh next page click "view raw" to download it.
+To download: Click the zip file, on the next page click "view raw" to download it.
 
 PDN Template 2019+
 This new version allows PDN impedance simulation and decoupling network design using measured VRM model and simulated PCB power plane model. New: Rogue Waves estimation, and automated PDN design with Optimizer.
